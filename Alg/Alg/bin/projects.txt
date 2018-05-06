@@ -1,0 +1,67 @@
+Caavo Full Stack Engineer Hiring Challenge
+
+ 
+
+[Problem Statement]
+
+Develop a full stack web app that lets users store their government documents details online in a secure fashion and let them access it whenever needed.
+
+You are expected to create an End-to-End Web app in any tech stack that you are comfortable with, which primarily presents user with forms for filling details of different documents like driving license(license no, name, vehicle category), aadhar card(aadhar no, name, dob); etc, store them and and display them whenever required.
+
+We expect you to write Backend and Frontend for this web app and use a database to store above mentioned details.
+
+ 
+
+[Minimum requirement]
+
+— Create basic front end with a home screen describing the functionality of app along with form for at least one document.
+
+— Create a back end that stores and fetches the information provided by user in a database.
+
+— Create a database to store the data provided by user. You are free to use any Sql or noSql database according to your convenience.
+
+— Zip all your source code, executables, screenshots and upload.
+
+ 
+
+[Plus point]
+
+— Create the forms dynamically for different documents. User will just input name of document and a form with relevant columns will be created automatically.
+
+— Implement a simple Search functionality​, that allows user to search for a document by its name.
+
+— Implement form validation.
+
+— Implement paging by back-end ​to display the results properly on the front end​.
+
+— Zip all your source code, executables, screenshots and upload.
+
+ 
+
+[Advanced]
+
+— Implement the sign up and login/logout functionality. You have to create user-auth schema in database.
+
+— Make an admin panel to add, remove and manage the documents.
+
+— Implement a search functionality that allows user to search for a particular section of a document. For example, user may search for something like “I want to see my aadhar number”. So you are expected to perform some text analysis and return aadhar number column for his aadhar card.
+
+— Use your imagination and add features which would make things easier for end users.
+
+— Create a feature that allows user to choose, store and quickly access frequently required details. For example, credit card number is more frequently required than other credit card details. So this feature will allow user to store this number separately.
+
+— We expect production level, generic, robust and standalone code.
+
+— Zip all your source code, executables, screenshots and upload.
+
+ 
+
+[Guide]
+
+TechStack :
+
+Backend: Any backend framework or language (preferably any python or node js framework).
+
+Db: Any Sql or Nosql database.
+
+Frontend: Any front-end language.
