@@ -11,9 +11,9 @@ public class MoveToNewOffice {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
         int N = Integer.parseInt(line);
+        
         String line1[]= br.readLine().split(" ");
         int left= Integer.parseInt(line1[0]);
-        int right= Integer.parseInt(line1[1]);
         
         int count = Integer.parseInt(br.readLine());
         
@@ -28,19 +28,5 @@ public class MoveToNewOffice {
                
 	}
 
-	private static void payToWoodCutter(int[] woodsi, int count) {
-		
-		int mid = count/2;
-		int[] leftSplit = new int[mid-1];
-		
-		if(mid < mid+1){
-			
-			for(int i=0; i<mid-1; i++){
-				leftSplit[i] =  woodsi[i];
-		}
-	for(int a :leftSplit){
-		System.out.println("abc :"+a);
-			}
-	}
-	}
+	
 }

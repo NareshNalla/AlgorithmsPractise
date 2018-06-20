@@ -57,4 +57,5 @@ The above recurrence is similar to Merge Sort and can be solved either using Rec
 Tree method or Master method. It falls in case II of Master Method
  and solution of the recurrence is O(nLogn).
 
-The Kadane’s Algorithm for this problem takes O(n) time. Therefore the Kadane’s algorithm is better than the Divide and Conquer approach, but this problem can be considered as a good example to show power of Divide and Conquer. The above simple approach where we divide the array in two halves, reduces the time complexity from O(n^2) to O(nLogn).*/
+The Kadane’s Algorithm for this problem takes O(n) time. Therefore the Kadane’s algorithm is better than the Divide and Conquer approach, but this problem can be considered as a good example to show power of Divide and Conquer. The above simple approach where we divide the array in two halves, 
+reduces the time complexity from O(n^2) to O(nLogn).*/
